@@ -2,7 +2,7 @@
   "name": "@stevec27/lotide",
   "version": "1.0.0",
   "description": "Making Lotide",
-  "main": "assertArraysEqual.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -21,6 +21,8 @@
   "homepage": "https://github.com/mrsteve27/lotide#readme",
   "devDependencies": {
     "chai": "^4.3.6",
+    "eslint": "^8.18.0",
+    "eslint-plugin-react": "^7.30.1",
     "mocha": "^10.0.0"
   }
 }
